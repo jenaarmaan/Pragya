@@ -1,0 +1,6 @@
+{
+  "name": "PRAGYA — Sovereign On-Premise Industrial AI Workbench",
+  "description": "Sovereign on-premise agentic AI workbench using open-weight multimodal LLMs for confidential industrial workflows at MRPL. Built by Team Tattva for SIH 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
